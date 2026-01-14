@@ -1,56 +1,68 @@
-Hello, I'm vijay Anumalasetti
+<h1 align="center">Hello, I'm Vijay Anumalasetti</h1>
+<br>
 
-🛠️ Tech Stack
-🔹 Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-🔹 Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-🔹 Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-🔹 Technologies & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-7aa2f7?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-7aa2f7?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-7aa2f7?style=for-the-badge&logo=python&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Spring_Boot-73daca?style=for-the-badge&logo=springboot&logoColor=black">
+  <img src="https://img.shields.io/badge/Spring_Security-73daca?style=for-the-badge&logo=springsecurity&logoColor=black">
+  <img src="https://img.shields.io/badge/JWT-73daca?style=for-the-badge&logo=jsonwebtokens&logoColor=black">
+  <br>
+  <img src="https://img.shields.io/badge/Pandas-bb9af7?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-bb9af7?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-bb9af7?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-bb9af7?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Git-f7768e?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-f7768e?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine_Learning-f7768e?style=for-the-badge">
+</p>
 
-   
-     
-    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<h3 align="center">💡 Projects</h3>
+<ul style="list-style-type: none; padding: 0; text-align: center;">
+  <li style="margin-bottom: 20px;">
+    <b><a href="https://github.com/YOUR_USERNAME/retail-billing-software">Retail Billing Software</a></b>
+    <p>Secure backend system with JWT-based authentication and role-based access control using Spring Boot, Spring Security, JPA/Hibernate, and MySQL.</p>
+  </li>
 
+  <li style="margin-bottom: 20px;">
+    <b><a href="https://github.com/YOUR_USERNAME/sentiment-analysis-nlp">Sentiment Analysis using NLP</a></b>
+    <p>Machine learning pipeline for classifying Amazon reviews into positive, negative, and neutral sentiments using Python and Scikit-learn.</p>
+  </li>
 
-💡 Projects
+  <li style="margin-bottom: 20px;">
+    <b><a href="https://github.com/YOUR_USERNAME/solar-edge-ai-scheduler">Solar Powered Edge AI Scheduler</a></b>
+    <p>Reinforcement learning–based edge AI system using YOLOv8 and DQN to optimize energy usage with real-time inference and Streamlit visualization.</p>
+  </li>
+</ul>
 
-- **Retail Billing Software** – Secure backend system with JWT-based authentication and role-based access control using Spring Boot, Spring Security, JPA/Hibernate, and MySQL. 🔗 GitHub
+<p align="center"><i>Check out my repositories for more projects!</i></p>
+<br>
 
-- **Sentiment Analysis using NLP** – Machine learning pipeline for classifying Amazon reviews into positive, negative, and neutral sentiments using Python and Scikit-learn. 🔗 GitHub
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="49%"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="75%"/>
+</p>
+<br>
 
-- **Solar Powered Edge AI Scheduler** – Reinforcement learning–based edge AI system using YOLOv8 and DQN to optimize energy usage with real-time inference and Streamlit visualization. 🔗 GitHub
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-f7768e?style=for-the-badge&logo=github&logoColor=white">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff9e64?style=for-the-badge&logo=gmail&logoColor=black">
+  </a>
+</p>
 
-
-Check out my repositories for more projects!
-
-
-📊 GitHub Stats
-GitHub Stats Top Languages
-
-GitHub Streak
-
-
-🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
